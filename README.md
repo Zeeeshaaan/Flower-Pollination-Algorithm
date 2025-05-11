@@ -14,7 +14,7 @@ The Flower Pollination Algorithm simulates the pollination process of flowers to
 ## Requirements
 * Python 3.11.9
 * Install libraries using command:
-* 'pip install scipy numpy'
+* `pip install scipy numpy`
 
 ## Notes
 Feel free to modify the code and report according to your needs.
